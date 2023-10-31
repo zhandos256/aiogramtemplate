@@ -1,0 +1,13 @@
+[Unit]
+Description=Template description
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=
+ExecStart=
+Restart=
+RestartSec=
+
+[Install]
+WantedBy=
